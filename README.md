@@ -1,10 +1,10 @@
 # Social Practice Silhouettes Set
 
 The Social Practice Silhouettes Set (SPSS) is a collection of silhouette images
-of people doing things. At some point I may add more silhouettes of more people
-or "intelligent" active things such as robots. The SPSS was created as a set of
-stimuli for research on technology-mediated activities in social settings, but
-it can be used for other purposes as well.
+of people doing things. At some point more silhouettes of more people or
+"intelligent" active things such as robots may be added. The SPSS was created
+as a set of stimuli for research on technology-mediated activities in social
+settings, but it can be used for other purposes as well.
 
 ## How to Use
 
