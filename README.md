@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/339148966.svg)](https://zenodo.org/badge/latestdoi/339148966)
+
 # Social Practice Silhouettes Set
 
 The Social Practice Silhouettes Set (SPSS) is a collection of silhouette images
@@ -61,4 +63,4 @@ I would like to thank the following contributors: Mena Mesenhöller, Kieu Tran
 Attribution is not required, but appreciated. In a scientific context, for
 example, you can cite the SPSS like this:
 
-Uhde, Alarith (2021): The Social Practice Silhouettes Set. *Version 1.0.0*
+Uhde, Alarith (2021): The Social Practice Silhouettes Set. *Version 1.0.0* https://doi.org/10.5281/zenodo.5716090
