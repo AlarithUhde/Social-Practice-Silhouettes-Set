@@ -16,7 +16,7 @@ You are free to use the SPSS for almost any purpose. For example:
 
 The images are assembled from several online sources, and each source image has
 been checked to have a license that permits inclusion. The exact source url and
-original license for each specific image can be found in the index.csv file.
+original license for each specific image can be found in the index.csv file. **In case of doubt, the conditions of the original source apply.**
 Thus, you can use all of these images for all purposes allowed according to
 their original licenses. Typically this means that you are allowed to do
 everything with them, except for creating a competitive service to the original
