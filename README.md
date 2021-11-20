@@ -2,6 +2,8 @@
 
 # Social Practice Silhouettes Set
 
+<img src="/together_static_male/together_static_male7.png" alt="A silhouette image of four street musicians with their instruments" width="200"><img src="/together_dynamic_female/together_dynamic_female3.png" alt="A silhouette image of two women walking their dogs" width="200"><img src="/alone_moving_child/alone_moving_child12.png" alt="A silhouette image of a child walking with a dog" width="200"><img src="/alone_moving_male/alone_moving_male32.png" alt="A silhouette image of a woman sitting on the floor with her head on her arms" width="200">
+ 
 The Social Practice Silhouettes Set (SPSS) is a collection of silhouette images
 of people doing things. It currently contains 203 silhouettes sorted by broad
 demographic categories and postures. Over time, I hope to add more silhouettes
