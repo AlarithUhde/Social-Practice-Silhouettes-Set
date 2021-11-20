@@ -20,7 +20,7 @@ You are free to use the SPSS as a whole for almost any purpose. For example:
 ### Using Individual Images
 
 If you want to use an individual image from the SPSS, please refer to its
-original license which can be found in the index.csv file. The images are
+original license which can be found in the [index.csv](index.csv) file. The images are
 assembled from several online sources, and each source image has been checked
 to have a license that permits inclusion in the SPSS. Generally speaking, you
 can do everything with these images without attribution, except for creating
@@ -51,7 +51,7 @@ Other ways to contribute:
   If you are the original creator, an easy way to share the image would be to
   upload it to a free online service (e.g., Pixabay or Unsplash) and then share
   the url)
-- add the names or handles of the original creators of images in the index.csv
+- add the names or handles of the original creators of images in the [index.csv](index.csv)
   file
 
 ## Acknowledgments
