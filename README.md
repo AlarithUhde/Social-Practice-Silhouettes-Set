@@ -24,7 +24,7 @@ hosters and maybe selling them without further modification.
 
 Some of the source images have been converted into silhouettes for inclusion in
 this set. In that case the silhouette has the license of the SPSS (i.e.,
-[https://creativecommons.org/licenses/by/4.0/](CC BY 4.0)). If you use these
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). If you use these
 images or the SPSS as a whole, please cite them as follows:
 
 Uhde, Alarith (2021): The Social Practice Silhouettes Set.
