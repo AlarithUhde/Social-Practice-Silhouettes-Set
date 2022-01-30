@@ -5,7 +5,7 @@
 <img src="/together_static_male/png/together_static_male7-500.png" alt="A silhouette image of four street musicians with their instruments" width="200"><img src="/together_dynamic_female/png/together_dynamic_female3-500.png" alt="A silhouette image of two women walking their dogs" width="200"><img src="/alone_moving_child/png/alone_moving_child12-500.png" alt="A silhouette image of a child walking with a dog" width="200"><img src="/alone_moving_male/png/alone_moving_male32-500.png" alt="A silhouette image of a woman sitting on the floor with her head on her arms" width="200">
  
 The Social Practice Silhouettes Set (SPSS) is a collection of silhouette images
-of people doing things. It currently contains 203 silhouettes sorted by broad
+of people doing things. It currently contains 204 silhouettes sorted by broad
 demographic categories and postures. Over time, I hope to add more silhouettes
 of more people or "intelligent" active things such as robots. The SPSS was
 created as a set of stimuli for research on technology-mediated activities in
@@ -22,12 +22,12 @@ You are free to use the SPSS as a whole for almost any purpose. For example:
 ### Using Individual Images
 
 If you want to use an individual image from the SPSS, please refer to its
-original license which can be found in the [index.csv](index.csv) file. The images are
-assembled from several online sources, and each source image has been checked
-to have a license that permits inclusion in the SPSS. Generally speaking, you
-can do everything with these images without attribution, except for creating
-a competitive service to the original hosters and maybe selling them without
-further modification.
+original license which can be found in the [index.csv](index.csv) file. The
+images are assembled from several online sources, and each source image has
+been checked to have a license that permits inclusion in the SPSS. Generally
+speaking, you can do everything with these images without attribution, except
+for creating a competitive service to the original hosters and maybe selling
+them without further modification.
 
 Some of the source images have been converted into silhouettes for inclusion in
 this set or otherwise modified (e.g., split into several images if several
@@ -40,7 +40,7 @@ images have the license of the SPSS (i.e., [CC0
 You can contribute in several ways. Most importantly, if you use the SPSS in
 your research and collect metadata in the process, please share them back! For
 example, you may have collected data about how people perceive each silhouette
-(e.g., the depicted person's gender, age, activity). These data could be
+(e.g., the depicted person's gender, age, activity, ...). These data could be
 interesting for other people as well. I would like to include some general
 information with the SPSS in the future and link to further resources from
 here.
@@ -49,12 +49,12 @@ Other ways to contribute:
 - share a link to your published research in which you used the SPSS
 - provide more silhouette images (**important**: Always include license
   information and a source url for all third party material you found on the
-  internet. New images will only be included if they have a permissive license.
-  If you are the original creator, an easy way to share the image would be to
-  upload it to a free online service (e.g., Pixabay or Unsplash) and then share
-  the url)
-- add the names or handles of the original creators of images in the [index.csv](index.csv)
-  file
+  internet. New images will only be included if they have a permissive license,
+  such as a Creative Commons Zero license. If you are the original creator,
+  another easy way to share the image would be to upload it to a free online
+  service (e.g., Pixabay or Unsplash) and then share the url)
+- add the names or handles of the original creators of images in the
+  [index.csv](index.csv) file
 
 ## Acknowledgments
 
