@@ -67,4 +67,4 @@ I would like to thank the following contributors: Mena Mesenhöller, Kieu Tran
 Attribution is not required, but appreciated. In a scientific context, for
 example, you can cite the SPC like this:
 
-Uhde, Alarith (2021): Social Practice Cards. *Version 1.0.0* https://doi.org/10.5281/zenodo.5716090
+Uhde, Alarith (2021): Social Practice Cards. *Version 1.1.0* https://doi.org/10.5281/zenodo.5716090
