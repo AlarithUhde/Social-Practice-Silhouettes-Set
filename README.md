@@ -67,4 +67,12 @@ I would like to thank the following contributors: Mena Mesenhöller, Kieu Tran
 Attribution is not required, but appreciated. In a scientific context, for
 example, you can cite the SPC like this:
 
-Uhde, Alarith (2022): Social Practice Cards. *Version 1.1.1* https://doi.org/10.5281/zenodo.6255968
+Uhde, Alarith (2022): Social Practice Cards. *Version 1.1.1* [](https://doi.org/10.5281/zenodo.6255968)
+
+We have also published a workshop paper at CHI'22 in which we describe the SPC
+in more detail:
+
+Alarith Uhde, Mena Mesenhöller & Marc Hassenzahl (2022): Social Practice Cards:
+Research Material to Study Social Contexts as Interwoven Practice
+Constellations. *Contribution to the CHI'22 Workshop InContext: Futuring User-Experience Design Tools*
+[](https://doi.org/10.48550/arXiv.2205.01756)
