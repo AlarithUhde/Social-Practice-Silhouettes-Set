@@ -30,7 +30,9 @@ checked to have a license that permits inclusion in the SPC. Generally speaking,
 you can do everything with these images without attribution, except for creating
 a competitive service to the original hosters and maybe selling them without
 further modification. With some of the images you can even do that, but you
-would have to check the license yourself for your case.
+would have to check the license yourself for your case. That said, please
+attribute the creators if possible in your context. You can find the source
+links with detailed information in the [index.csv](index.csv).
 
 Some of the source images have been converted into silhouettes for inclusion in
 this set, or they have been otherwise modified (e.g., split into several images
