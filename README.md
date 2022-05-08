@@ -5,7 +5,7 @@
 <img src="/together_static_male/png/together_static_male7-500.png" alt="A silhouette image of four street musicians with their instruments" width="200"><img src="/together_dynamic_female/png/together_dynamic_female3-500.png" alt="A silhouette image of two women walking their dogs" width="200"><img src="/alone_moving_child/png/alone_moving_child12-500.png" alt="A silhouette image of a child walking with a dog" width="200"><img src="/alone_moving_male/png/alone_moving_male32-500.png" alt="A silhouette image of a woman sitting on the floor with her head on her arms" width="200">
 
 The Social Practice Cards (SPC) are a collection of silhouette images of people
-doing things. It currently contains 203 silhouettes sorted by broad demographic
+doing things. It currently contains 204 silhouettes sorted by broad demographic
 categories and postures. Over time, I hope to add more silhouettes of more
 people or "intelligent" active things such as robots. The SPC was created as
 a set of stimuli for research on technology-mediated activities in social
